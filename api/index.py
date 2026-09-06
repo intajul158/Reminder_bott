@@ -51,7 +51,7 @@ waiting_message = set()
 # TELEGRAM API
 # =========================================================
 
-TELEGRAM_API = f"https://api.telegram.org/bot{8644485641:AAFJdbNKciBE3PWHIjGBplmBM1sVzeCTQg4}"
+TELEGRAM_API = f"https://api.telegram.org/bot{8515151596:AAHimsbY_Q6CDp7R7eoPJCQOD0Fbg3szMac}"
 
 
 def telegram(method, payload=None):
