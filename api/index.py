@@ -10,7 +10,7 @@ from http.server import BaseHTTPRequestHandler
 # CONFIG
 # =========================================================
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8515151596:AAHimsbY_Q6CDp7R7eoPJCQOD0Fbg3szMac")
 CRON_SECRET = os.getenv("CRON_SECRET", "")
 
 INTERVAL = 60
